@@ -3,10 +3,10 @@
 
 
 </body>
-<table width="200" border="200">
+<table width="400" border="0">
 <tr>
 <td colspan="3" style="background-color:#99bbbb;">
-<h1>Main Title of Web Page</h1>
+<h1>Studet Information</h1>
 </td>
 </tr>
 
@@ -25,10 +25,9 @@ JavaScript
 <td style="background-color:#EEEEEE;height:200px;width:200px;text-align:top;">
 Content goes here</td>
 <td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
-<b>BANJI</b><br />
-XINXI<br />
+<b>Class</b><br />
+Information Management and System<br />
 1602<br />
-HanXiao
 </td>
 </tr>
 <tr>
@@ -41,8 +40,8 @@ JavaScript
 <td style="background-color:#EEEEEE;height:200px;width:200px;text-align:top;">
 Content goes here</td>
 <td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
-<b>XINGMING</b><br />
-HANXIAO<br />
+<b>Name</b><br />
+HanXiao<br />
 </td>
 </tr><tr>
 <td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
@@ -54,14 +53,14 @@ JavaScript
 <td style="background-color:#EEEEEE;height:200px;width:200px;text-align:top;">
 Content goes here</td>
 <td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
-<b>XUEHAO</b><br />
+<b>StudentNumber</b><br />
 1610650214<br />
 </td>
 </tr>
 
 <tr>
 <td colspan="3" style="background-color:#99bbbb;text-align:center;">
-Copyright W3School.com.cn</td>
+www.tjpu.com</td>
 </tr>
 </table>
 </html>
