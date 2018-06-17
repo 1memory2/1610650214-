@@ -10,20 +10,52 @@
 </td>
 </tr>
 
-<tr valign="top">
-<td style="background-color:#ffff99;width:100px;text-align:top;">
+
+ <tr>
+ <td>
+ <table style="margin:0px;">
+
+ <tr>
+<td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
 <b>Menu</b><br />
 HTML<br />
 CSS<br />
 JavaScript
 </td>
-<td style="background-color:#EEEEEE;height:200px;width:400px;text-align:top;">
+<td style="background-color:#EEEEEE;height:200px;width:200px;text-align:top;">
 Content goes here</td>
-<td style="background-color:#ffff99;width:100px;text-align:top;">
+<td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
 <b>BANJI</b><br />
 XINXI<br />
 1602<br />
 HanXiao
+</td>
+</tr>
+<tr>
+<td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
+<b>Menu</b><br />
+HTML<br />
+CSS<br />
+JavaScript
+</td>
+<td style="background-color:#EEEEEE;height:200px;width:200px;text-align:top;">
+Content goes here</td>
+<td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
+<b>XINGMING</b><br />
+HANXIAO<br />
+</td>
+</tr><tr>
+<td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
+<b>Menu</b><br />
+HTML<br />
+CSS<br />
+JavaScript
+</td>
+<td style="background-color:#EEEEEE;height:200px;width:200px;text-align:top;">
+Content goes here</td>
+<td style="background-color:#ffff99;width:200px;width:200px;text-align:top;">
+<b>XUEHAO</b><br />
+1610650214<br />
 </td>
 </tr>
 
