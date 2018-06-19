@@ -24,6 +24,6 @@
 </head>
 <body>
     <input type="text" id="a1" placeholder="请输入数字1-9">
-    <input type="button" value="确认" onclick="getvalue()">
+    <input type="button" value="生成乘法表" onclick="getvalue()">
 </body>
 </html>
