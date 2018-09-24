@@ -1,11 +1,10 @@
 for i in range(1,10):
+    for k in range(1,i):
+        print(end="       ")
     for j in range(i,10):
-        formula='{}*{}={}'.format(i,j,i*j)
-    print(formula,end='')
-print()
+        print("{}*{}={:2} ".format(i, j,i*j),end='')
+    print()
 
-for i in range(1,9):
-    for j in range(i,9):
-        formula='{}*{}={}'.format(i,j,i*j)
-    print(formula,end='')
-print()
+
+
+
